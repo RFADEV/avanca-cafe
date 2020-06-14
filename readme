@@ -1,1 +1,27 @@
+O projeto usa artisan
 
+para rodar as migrations e construir o banco verifique se na pasta BACK existe o arquivo .env
+se não existir crie um e copie os dados do arquivo que está nessa pasta chamado .env.example
+e troque os valores como diz o arquivo
+
+crie a base com o nome que foi colocado no arquivo .env
+
+no console utilize o comando abaixo na pasta BACK
+
+  php artisan migrate
+
+isso pode requerer algumas dependencias como o lumen, o laravel e o próprio artisan para rodar se tiver dando errado chamar o HENRIQUE
+  
+mais informações sobre o artisan
+  ARTISAN
+  https://laravel.com/docs/7.x/migrations
+  
+  LUMEN (framework usado)
+    https://lumen.laravel.com/
+    
+  LARAVEL (O lumen utiliza)
+    https://laravel.com/
+  
+  COMPOSER (utilizado para baixar as dependencias)
+    https://getcomposer.org/
+  

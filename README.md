@@ -69,6 +69,3 @@ Após abrir o arquivo procure por 'extension=pdo_mysql' (sem as aspas), provavel
   
   >  ARTISAN
   https://laravel.com/docs/7.x/migrations
-  
-
-  
